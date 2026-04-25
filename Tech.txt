@@ -3,3 +3,18 @@ Hey!
 We would be learning several kinds of technologies in this course in a very conceptual and a practical way!!
 
 This is the first file I have created on this GitHub repository.
+
+The certain tools we would be learning in this course are:
+1. Linux
+2. Git and GitHub
+3. Bash Scripting
+4. GitHub Actions
+5. Python
+6. AWS
+7. Ansible
+8. Docker and Docker Compose
+9. Terraform
+10. Testing tools and frameworks
+11. Kubernetes
+12. Miscellaneous
+
