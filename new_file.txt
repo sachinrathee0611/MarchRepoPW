@@ -1,6 +1,0 @@
-This file was created in the local system!
-This was then pushed from the local system to the remote repository (GitHub)!
-
-The file is now being edited on the Remote Git Repository!!!
-
-Let's see if you can pull it in your local system!!
